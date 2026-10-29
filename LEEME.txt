@@ -1,0 +1,28 @@
+CONTROL DE FIGURITAS - VERSION ANDROID
+
+OPCION A (recomendada): instalarla como app
+1. Sube esta carpeta completa a un alojamiento gratuito con HTTPS
+   (por ejemplo GitHub Pages, Netlify o Cloudflare Pages).
+2. Abre el enlace en Chrome desde tu Android.
+3. Menu (los tres puntos) > "Instalar app" o "Agregar a la pantalla principal".
+   Queda con su icono, abre a pantalla completa y funciona sin internet.
+
+OPCION B: generar un APK
+1. Con la pagina ya alojada (paso 1 de la opcion A), entra a pwabuilder.com
+   y pega el enlace.
+2. Elige empaquetar para Android y descarga el paquete.
+3. Para instalar un APK fuera de Play Store, el celular te pedira permitir
+   "instalar apps de fuentes desconocidas".
+
+TU AVANCE
+- Se guarda en el propio celular. Si borras los datos del navegador o
+  desinstalas la app, se pierde.
+- Usa "Copia de seguridad" (al final de la pagina) para guardar el avance
+  como texto y restaurarlo cuando quieras.
+- El avance de la version publicada en Claude no se pasa solo a esta version.
+
+IMAGENES DE LAS FIGURITAS
+- Guarda las imagenes en la carpeta img, con el numero como nombre (57.jpg).
+- En la app, usa el modo "Ver" y toca el numero. Si no hay imagen, puedes
+  usar el boton "Buscar imagen en linea".
+- Si cambias archivos ya publicados, sube tambien el nuevo sw.js.

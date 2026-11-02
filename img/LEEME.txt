@@ -1,0 +1,4 @@
+Guarda aqui las imagenes de las figuritas.
+Nombre = numero de la figurita + extension: 1.jpg, 2.jpg ... 256.jpg
+(tambien funcionan .png, .webp y .jpeg).
+En la app, activa el modo "Ver" y toca un numero para ver su imagen.
